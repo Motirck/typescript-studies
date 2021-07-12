@@ -1,10 +1,9 @@
 # TypeScript - Studies
 Learning about TypeScript
 
-
 ### Keywords 🔑
-- typescript -> ts
-- javascript -> js
+- TypeScript -> ts
+- JavaScript -> js
 
 ### Necessary Commands 
 ---
@@ -26,11 +25,13 @@ Learning about TypeScript
 
 > yarn tsc --init (create the tsconfig.json file)
 
-> 
-
-
-
-
-
 
 <br>
+
+### Command to run teh application
+
+```bash
+# development
+$ yarn tsc
+$ node dist\server.js
+```
